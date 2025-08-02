@@ -16,8 +16,7 @@ Unlock your coding potential with a single repo – comprehensive Java tutorials
 
 ⭐ **Get Started:**
 
-1. Clone ⭐ `git clone https://github.com/your‑username/Java‑DSA‑CP.git`
-2. Dive into `/java-course` or `/dsa`
-3. Solve, learn, repeat!
+1. Clone ⭐ `git clone https://github.com/shubhansh-gupta25641082564/DSA.git`
+2. Solve, learn, repeat!
 
 Let’s code smarter, together! 💻✨
